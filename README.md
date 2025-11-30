@@ -1,6 +1,7 @@
 # Calories Calculator
 
 An Android application for calculating daily calorie requirements.
+
 This exercise was the third weekly assignment for the course Mobile programming with Native Technologies in Oulu University of Applied Sciences.
 
 ## Features
